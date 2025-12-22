@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>ikanoe.top/categories/</link>
+    <link>https://ikanoe.top/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <managingEditor>WeiZiXing123@outlook.com (AndreasMarin)</managingEditor>
     <webMaster>WeiZiXing123@outlook.com (AndreasMarin)</webMaster>
     <lastBuildDate>Tue, 16 Dec 2025 11:24:32 +0800</lastBuildDate>
-    <atom:link href="ikanoe.top/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ikanoe.top/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>记录生活</title>
-      <link>ikanoe.top/categories/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/</link>
+      <link>https://ikanoe.top/categories/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/</link>
       <pubDate>Tue, 16 Dec 2025 11:24:32 +0800</pubDate><author>WeiZiXing123@outlook.com (AndreasMarin)</author>
-      <guid>ikanoe.top/categories/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/</guid>
+      <guid>https://ikanoe.top/categories/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/</guid>
       <description></description>
     </item>
   </channel>

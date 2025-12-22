@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>ikanoe.top/</loc>
+    <loc>https://ikanoe.top/</loc>
     <lastmod>2025-12-16T11:24:32+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>ikanoe.top/categories/</loc>
+    <loc>https://ikanoe.top/categories/</loc>
     <lastmod>2025-12-16T11:24:32+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>ikanoe.top/collections/</loc>
+    <loc>https://ikanoe.top/collections/</loc>
     <lastmod>2025-12-16T11:24:32+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>ikanoe.top/posts/</loc>
+    <loc>https://ikanoe.top/posts/</loc>
     <lastmod>2025-12-16T11:24:32+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>ikanoe.top/tags/</loc>
+    <loc>https://ikanoe.top/tags/</loc>
     <lastmod>2025-12-16T11:24:32+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>ikanoe.top/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://ikanoe.top/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2025-12-16T11:24:32+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>ikanoe.top/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%A8%BF1/</loc>
+    <loc>https://ikanoe.top/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%A8%BF1/</loc>
     <lastmod>2025-12-16T11:24:32+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>ikanoe.top/categories/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://ikanoe.top/categories/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2025-12-16T11:24:32+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>ikanoe.top/collections/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</loc>
+    <loc>https://ikanoe.top/collections/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</loc>
     <lastmod>2025-12-16T11:24:32+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
