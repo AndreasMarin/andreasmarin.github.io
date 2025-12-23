@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>所有文章 - </title>
-    <link>https://ikanoe.top/posts/</link>
+    <title>测试类别 - 分类 - </title>
+    <link>https://ikanoe.top/categories/%E6%B5%8B%E8%AF%95%E7%B1%BB%E5%88%AB/</link>
     <description></description>
     <generator>Hugo 0.153.2 &amp; FixIt v0.4.0-alpha.3-20251128065536-6d00e42b</generator>
     <language>zh-CN</language>
     <managingEditor>weizixing123@outlook.com (AndreasMarin)</managingEditor>
     <webMaster>weizixing123@outlook.com (AndreasMarin)</webMaster>
     <lastBuildDate>Tue, 16 Dec 2025 11:24:32 +0800</lastBuildDate>
-    <atom:link href="https://ikanoe.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ikanoe.top/categories/%E6%B5%8B%E8%AF%95%E7%B1%BB%E5%88%AB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>测试文稿1</title>
       <link>https://ikanoe.top/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%A8%BF1/</link>

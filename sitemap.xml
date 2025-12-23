@@ -31,25 +31,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ikanoe.top/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://ikanoe.top/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2025-12-16T11:24:32+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ikanoe.top/collections/%E6%B5%8B%E8%AF%95%E5%90%88%E9%9B%86/</loc>
+    <lastmod>2025-12-16T11:24:32+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ikanoe.top/categories/%E6%B5%8B%E8%AF%95%E7%B1%BB%E5%88%AB/</loc>
     <lastmod>2025-12-16T11:24:32+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ikanoe.top/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%A8%BF1/</loc>
-    <lastmod>2025-12-16T11:24:32+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ikanoe.top/categories/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2025-12-16T11:24:32+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ikanoe.top/collections/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</loc>
     <lastmod>2025-12-16T11:24:32+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

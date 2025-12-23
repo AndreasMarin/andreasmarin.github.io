@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>杂七杂八 - 合集 - </title>
-    <link>https://ikanoe.top/collections/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</link>
+    <link>http://localhost:1313/collections/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</link>
     <description></description>
-    <generator>Hugo 0.153.2 &amp; FixIt v0.4.0-alpha.3-20251128065536-6d00e42b</generator>
+    <generator>Hugo 0.152.2 &amp; FixIt v0.4.0-alpha.3-20251128065536-6d00e42b</generator>
     <language>zh-CN</language>
-    <managingEditor>weizixing123@outlook.com (AndreasMarin)</managingEditor>
-    <webMaster>weizixing123@outlook.com (AndreasMarin)</webMaster>
+    <managingEditor>WeiZiXing123@outlook.com (AndreasMarin)</managingEditor>
+    <webMaster>WeiZiXing123@outlook.com (AndreasMarin)</webMaster>
     <lastBuildDate>Tue, 16 Dec 2025 11:24:32 +0800</lastBuildDate>
-    <atom:link href="https://ikanoe.top/collections/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/collections/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>测试文稿1</title>
-      <link>https://ikanoe.top/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%A8%BF1/</link>
-      <pubDate>Tue, 16 Dec 2025 11:24:32 +0800</pubDate><author>weizixing123@outlook.com (AndreasMarin)</author>
-      <guid>https://ikanoe.top/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%A8%BF1/</guid>
-      <category domain="https://ikanoe.top/categories/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/">记录生活</category>
+      <link>http://localhost:1313/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%A8%BF1/</link>
+      <pubDate>Tue, 16 Dec 2025 11:24:32 +0800</pubDate><author>WeiZiXing123@outlook.com (AndreasMarin)</author>
+      <guid>http://localhost:1313/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%A8%BF1/</guid>
+      <category domain="http://localhost:1313/categories/%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB/">记录生活</category>
       <description>&lt;p&gt;摘要（summary）&lt;/p&gt;</description>
     </item>
   </channel>
