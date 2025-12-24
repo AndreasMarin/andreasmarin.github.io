@@ -13,12 +13,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ikanoe.top/posts/a320neo/</loc>
-    <lastmod>2025-12-24T14:30:33+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://ikanoe.top/categories/</loc>
     <lastmod>2025-12-24T14:30:33+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -31,7 +25,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ikanoe.top/tags/mfs2020a320neo/</loc>
+    <loc>https://ikanoe.top/tags/mfs2020a320neo%E5%BB%BA%E8%AE%BE%E4%B8%ADing.../</loc>
     <lastmod>2025-12-24T14:30:33+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -44,6 +38,12 @@
   </url>
   <url>
     <loc>https://ikanoe.top/tags/</loc>
+    <lastmod>2025-12-24T14:30:33+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ikanoe.top/posts/a320neo/</loc>
     <lastmod>2025-12-24T14:30:33+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
